@@ -1,1 +1,1 @@
-# rsschool-cv
+ https://kgulzana.github.io/rsschool-cv/cv
