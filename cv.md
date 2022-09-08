@@ -1,3 +1,4 @@
+![My photo](./images/myphoto.jpg)
 # **Katkeldieva Gulzana**  
 ## *Junior Frontend (React) Developer*
 ###
